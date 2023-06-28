@@ -5,8 +5,9 @@ I'm a ruby developer over at ioki.
 Here are some contributions to open source projects I am particularly proud of:
 
 1. [rails/rails: Facilitate use of any regular ERB in database.yml](https://github.com/rails/rails/pull/46134)
-2. [lostisland/faraday: Logging headers & errors fails when ConnectionFailed is raised](https://github.com/lostisland/faraday/pull/1512)
-3. [valhalla/valhalla: Tyr OSRM serializer: create bannerInstructions in step](https://github.com/valhalla/valhalla/pull/4093)
+1. [rails/rails: Adds "Deferrable Foreign Keys" section to PostgreSQL guide](https://github.com/rails/rails/pull/43812)
+1. [lostisland/faraday: Logging headers & errors fails when ConnectionFailed is raised](https://github.com/lostisland/faraday/pull/1512)
+1. [valhalla/valhalla: Tyr OSRM serializer: create bannerInstructions in step](https://github.com/valhalla/valhalla/pull/4093)
 
 <!--
 **eikes/eikes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
